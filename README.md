@@ -104,7 +104,7 @@ sudo bash openvpn.sh --uninstall
 ## 📌 6. Полезные ссылки
 - [Документация OpenVPN](https://openvpn.net/community-resources/)  
 - [Репозиторий скрипта](https://github.com/hwdsl2/openvpn-install)  
-- [AdminVPS](https://my.adminvps.ru/aff.php?aff=28722) — промокод **OPEN** (60% на первый месяц)  
+- [AdminVPS](https://my.adminvps.ru/aff.php?aff=28722) — промокод **GIT** (60% на первый месяц)  
 
 ---
 
