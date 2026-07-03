@@ -103,6 +103,3 @@ sudo bash openvpn.sh --uninstall
 - [Репозиторий скрипта](https://github.com/hwdsl2/openvpn-install)  
 - [AdminVPS](https://my.adminvps.ru/aff.php?aff=28722) — промокод **GIT** (60% на первый месяц)  
 
----
-
-💡 Теперь у тебя есть быстрый способ развернуть OpenVPN на VPS всего за пару минут!
